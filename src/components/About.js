@@ -16,7 +16,8 @@ const About = () => {
         <p>We specialize in the import and export of forest products and by-products for North American and European markets.</p>
         <p>Our mission focuses on providing a responsible supply of both precious and semi-precious woods, serving various industries such as cabinetmaking, furniture design, musical instrument fabrication, construction, and more.</p>
         <p>Additionally, we offer a wide range of high-quality lumber sourced from Canada, ensuring our clients have access to premium materials that meet their diverse needs.</p>
-        <p>Certificates: FSC C153948, PEFC/01-31-26, SFI-01 895.</p>
+        <p>Certificates: FSC C153948, PEFC/01-31-26, SFI-01 895. FSC C001844, PEFC/29-31-183, SFI-00057, EU Ecolabel FR/011/10. FSC C014249.</p>
+        
       </div>
       <div className="icon">
         <img src={Icon} alt="Icon" />
