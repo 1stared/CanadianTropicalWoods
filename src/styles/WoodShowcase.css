@@ -41,10 +41,6 @@
   width: 100%;
 }
 
-.woodshowcase-container .wood-category {
-  gap: 40px;
-}
-
 @media (max-width: 1199px) {
   .woodshowcase-container .wood-card {
     flex: 1 1 calc(33.33% - 40px);
