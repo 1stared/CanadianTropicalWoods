@@ -1,8 +1,8 @@
 [
   {
     "name": "Canadian Eastern",
-    "engDescription": "Spruce, pine and red spruce from eastern Canada.\nAll lumber is two inches thick and is offered in various widths and grades for framing, furniture, heavy duty construction flooring, and finger joints and lumber to construct wooden skids.",
-    "espDescription": "Abeto, pino y abeto rojo del este Canadá.\nToda la madera tiene dos pulgadas de grosor y se ofrece en varios anchos y calidades para aplicaciones de enmarcados, muebles, pisos de construcción pesados, y se ofrece Finger Joints and lumber to construct wooden skids.",
+    "engDescription": "Spruce, pine and red spruce, plywood from eastern Canada.\nAll lumber is two inches thick and is offered in various widths and grades for framing, furniture, heavy duty construction flooring, and finger joints and lumber to construct wooden skids.",
+    "espDescription": "Abeto, pino, abeto rojo, y plywood del este Canadá.\nToda la madera tiene dos pulgadas de grosor y se ofrece en varios anchos y calidades para aplicaciones de enmarcados, muebles, pisos de construcción pesados, y se ofrece Finger Joints and lumber to construct wooden skids.",
     "images": [
       "/woods/Canadian Eastern/img/IMG_3294.PNG",
       "/woods/Canadian Eastern/img/IMG_3295.PNG",
@@ -11,8 +11,8 @@
   },
   {
     "name": "Canadian Western",
-    "engDescription": "Spruce pine, southern yellow pine, Douglas fir Larch from western Canada.\nAll lumber is one inch thick and available in various widths and grades, ideal for furniture, cabinetry, and molding.",
-    "espDescription": "Abeto de Douglas, pino, picea y abeto rojo procedentes del oeste de Canadá.\nToda la madera tiene un grosor de una pulgada y está disponible en varios anchos y calidades, ideal para la construcción de muebles, gabinetes y molduras.",
+    "engDescription": "Spruce pine, southern yellow pine, Douglas fir Larch, plywod from western Canada.\nAll lumber is one inch thick and available in various widths and grades, ideal for furniture, cabinetry, and molding.",
+    "espDescription": "Abeto de Douglas, pino, picea, abeto rojo, y plywood procedentes del oeste de Canadá.\nToda la madera tiene un grosor de una pulgada y está disponible en varios anchos y calidades, ideal para la construcción de muebles, gabinetes y molduras.",
     "images": [
       "/woods/Canadian Western/img/IMG_3293.PNG",
       "/woods/Canadian Western/img/IMG_4888.PNG"
