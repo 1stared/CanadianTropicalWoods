@@ -1,276 +1,301 @@
 [
   {
-    "name": "Canadian Eastern",
+    "name": "Eastern Canadian",
+    "region": "Canadian",
     "engDescription": "Spruce, pine and red spruce, plywood from eastern Canada.\nAll lumber is two inches thick and is offered in various widths and grades for framing, furniture, heavy duty construction flooring, and finger joints and lumber to construct wooden skids.",
     "espDescription": "Abeto, pino, abeto rojo, y plywood del este Canadá.\nToda la madera tiene dos pulgadas de grosor y se ofrece en varios anchos y calidades para aplicaciones de enmarcados, muebles, pisos de construcción pesados, y se ofrece Finger Joints and lumber to construct wooden skids.",
     "images": [
-      "/woods/Canadian Eastern/img/IMG_3294.PNG",
-      "/woods/Canadian Eastern/img/IMG_3295.PNG",
-      "/woods/Canadian Eastern/img/IMG_4888.PNG"
+      "/woods/Canadian/Eastern Canadian/img/IMG_3294.PNG",
+      "/woods/Canadian/Eastern Canadian/img/IMG_3295.PNG",
+      "/woods/Canadian/Eastern Canadian/img/IMG_4888.PNG"
     ]
   },
   {
-    "name": "Canadian Western",
+    "name": "Western Canadian",
+    "region": "Canadian",
     "engDescription": "Spruce pine, southern yellow pine, Douglas fir Larch, plywod from western Canada.\nAll lumber is one inch thick and available in various widths and grades, ideal for furniture, cabinetry, and molding.",
     "espDescription": "Abeto de Douglas, pino, picea, abeto rojo, y plywood procedentes del oeste de Canadá.\nToda la madera tiene un grosor de una pulgada y está disponible en varios anchos y calidades, ideal para la construcción de muebles, gabinetes y molduras.",
     "images": [
-      "/woods/Canadian Western/img/IMG_3293.PNG",
-      "/woods/Canadian Western/img/IMG_4888.PNG"
+      "/woods/Canadian/Western Canadian/img/IMG_3293.PNG",
+      "/woods/Canadian/Western Canadian/img/IMG_4888.PNG"
     ]
   },
   {
     "name": "Canxan",
+    "region": "Tropical",
     "engDescription": "Terminalia amazonia\n\nIn its green state, the sapwood is grayish yellow, and the heartwood is darker. When dry, the sapwood turns orange or yellowish, and the heartwood becomes reddish yellow, light yellowish brown, or yellowish olive with darker reddish or dark brown stripes. The wood tends to oxidize rapidly when it has been exposed to air and light (Flores, 1994). The wood has an interlocked grain, medium texture, and high luster on radial planes, but it is regular on tangential planes, which makes it difficult to finish. Radial cuts are made parallel to the long axis, through the center; the grain pattern is a series of parallel lines. Tangential cuts are parallel to the long axis, anywhere but through the center; the grain pattern is wavy and variable, not all parallel. The lines and veins resulting from both types of cuts make this wood very attractive.\n",
     "espDescription": "Terminalia amazonia \n\nEn estado verde, la albura es de color amarillo grisáceo y el duramen es más oscuro. Al secarse, la albura se torna anaranjada o amarillenta, y el duramen adquiere un color amarillo rojizo, marrón amarillento claro o verde oliva amarillento con vetas rojizas o marrón oscuro más oscuras. La madera tiende a oxidarse rápidamente al estar expuesta al aire y a la luz (Flores, 1994). La madera presenta veta entrelazada, textura media y brillo intenso en los planos radiales, pero es regular en los planos tangenciales, lo que dificulta su acabado. Los cortes radiales se realizan paralelos al eje longitudinal, pasando por el centro; el patrón de veta es una serie de líneas paralelas. Los cortes tangenciales son paralelos al eje longitudinal, en cualquier punto excepto por el centro; el patrón de veta es ondulado y variable, no todos paralelos. Las líneas y vetas resultantes de ambos tipos de cortes hacen que esta madera sea muy atractiva.\n",
     "images": [
-      "/woods/Canxan/img/unknown 2.PNG",
-      "/woods/Canxan/img/unknown 3.PNG",
-      "/woods/Canxan/img/unknown.PNG"
+      "/woods/Tropical/Canxan/img/unknown 2.PNG",
+      "/woods/Tropical/Canxan/img/unknown 3.PNG",
+      "/woods/Tropical/Canxan/img/unknown.PNG"
     ]
   },
   {
     "name": "Catalox",
+    "region": "Tropical",
     "engDescription": "Catalox (Swartzia Lundellii)\n\nKnown commercially as Mexican royal ebony or northern rosewood, its heartwood is dark brown, reddish-brown or nearly black with a hint of purple, varying from a solid color to somewhat variegated. Its yellowish sapwood is sharply demarcated from the dark heartwood. Texture very fine to medium; luster usually medium; grain tight and straight. Inlay, parquet flooring, turnery, furniture, cabinetwork, violin bows, guitars, specialty items, mouldings, decorative veneer, and turnery. An ecological and lower cost substitute for African Gabon Ebony.\n",
     "espDescription": "Catalox (Swartzia Lundellii)\n\nConocido comercialmente como ébano real mexicano o palosanto del norte, su duramen es de color marrón oscuro, marrón rojizo o casi negro con un toque púrpura, que varía de un color sólido a ligeramente abigarrado. Su albura amarillenta se distingue claramente del duramen oscuro. Su textura es de muy fina a media; su brillo suele ser medio; su veta es apretada y recta. Se utiliza para marquetería, parquet, tornería, muebles, ebanistería, arcos de violín, guitarras, artículos especiales, molduras, chapa decorativa y tornería. Un sustituto ecológico y económico del ébano africano de Gabón.\n",
     "images": [
-      "/woods/Catalox/img/unknown 2.PNG",
-      "/woods/Catalox/img/unknown 3.PNG",
-      "/woods/Catalox/img/unknown 4.PNG",
-      "/woods/Catalox/img/unknown.PNG"
+      "/woods/Tropical/Catalox/img/unknown 2.PNG",
+      "/woods/Tropical/Catalox/img/unknown 3.PNG",
+      "/woods/Tropical/Catalox/img/unknown 4.PNG",
+      "/woods/Tropical/Catalox/img/unknown.PNG"
     ]
   },
   {
     "name": "Cedar",
+    "region": "Tropical",
     "engDescription": "Is the most commercially important and widely distributed species. The aromatic wood is in high demand because it is Naturally Termite and Rot-Resistant. Is a moderate light weight wood. Its primary uses is in household articles used to store clothing, humidor construction and also used for tops or veneers on some electric guitars.\n",
     "espDescription": "Es la especie de mayor importancia comercial y amplia distribución. Su madera aromática tiene una gran demanda debido a su resistencia natural a las termitas y a la putrefacción. Es una madera de peso moderado y ligero. Se utiliza principalmente en artículos domésticos para guardar ropa, en la construcción de humidores y también para tapas o chapas de algunas guitarras eléctricas.\n",
     "images": [
-      "/woods/Cedar/img/unknown 5.PNG",
-      "/woods/Cedar/img/unknown 6.PNG",
-      "/woods/Cedar/img/unknown 7.PNG",
-      "/woods/Cedar/img/unknown 8.PNG",
-      "/woods/Cedar/img/unknown 9.PNG"
+      "/woods/Tropical/Cedar/img/unknown 5.PNG",
+      "/woods/Tropical/Cedar/img/unknown 6.PNG",
+      "/woods/Tropical/Cedar/img/unknown 7.PNG",
+      "/woods/Tropical/Cedar/img/unknown 8.PNG",
+      "/woods/Tropical/Cedar/img/unknown 9.PNG"
     ]
   },
   {
     "name": "Cericote",
+    "region": "Tropical",
     "engDescription": "Cericote (Cordia Dondecandra)\n\nThis wood is dark brown in color and has a Janka hardness  It is used for furniture, veneer, cabinetry, flooring, gun stocks, musical instruments (including guitars and ukuleles), entrance doors, turnings, decorative beams, trim, and small specialty items.\n",
     "espDescription": "Cericote (Cordia Dondecandra)\n\nEsta madera es de color marrón oscuro y tiene una dureza Janka. Se utiliza para muebles, chapas, ebanistería, suelos, culatas de armas, instrumentos musicales (incluyendo guitarras y ukeleles), puertas de entrada, torneados, vigas decorativas, molduras y pequeños artículos especiales.\n",
     "images": [
-      "/woods/Cericote/img/unknown 2.PNG",
-      "/woods/Cericote/img/unknown 3.PNG",
-      "/woods/Cericote/img/unknown 4.PNG",
-      "/woods/Cericote/img/unknown 5.PNG",
-      "/woods/Cericote/img/unknown.PNG"
+      "/woods/Tropical/Cericote/img/unknown 2.PNG",
+      "/woods/Tropical/Cericote/img/unknown 3.PNG",
+      "/woods/Tropical/Cericote/img/unknown 4.PNG",
+      "/woods/Tropical/Cericote/img/unknown 5.PNG",
+      "/woods/Tropical/Cericote/img/unknown.PNG"
     ]
   },
   {
     "name": "Chaltecoco",
+    "region": "Tropical",
     "engDescription": "This is a beautiful orange wood native to Guatemala, closely related to Brazilwood and Chakte Viga, known for its vibrant color, fine texture, and durability. \nChaltecoco wood has a bright orange heartwood that darkens with time to an orange-red, with a high luster and fine texture.\nIt’s a strong and durable wood suitable for turnery, furniture, flooring, and even guitar components, due to its similarity to Brazilwood, a wood prized for violin.\n",
     "espDescription": "Chaltecoco (Caesalpinia Velutina) Esta hermosa madera de naranjo es originaria de Guatemala, estrechamente emparentada con el palo de Brasil y el Chakte Viga, conocida por su vibrante color, fina textura y durabilidad. El duramen de la madera de chaltecoco es de color naranja brillante y se oscurece con el tiempo hasta alcanzar un rojo anaranjado, con un brillo intenso y una fina textura. Es una madera resistente y duradera, ideal para torneado, muebles, suelos e incluso componentes de guitarra, gracias a su similitud con el palo de Brasil, una madera muy apreciada para la fabricación de violín.",
     "images": [
-      "/woods/Chaltecoco/img/unknown 6.PNG",
-      "/woods/Chaltecoco/img/unknown 7.PNG",
-      "/woods/Chaltecoco/img/unknown 8.PNG",
-      "/woods/Chaltecoco/img/unknown 9.PNG"
+      "/woods/Tropical/Chaltecoco/img/unknown 6.PNG",
+      "/woods/Tropical/Chaltecoco/img/unknown 7.PNG",
+      "/woods/Tropical/Chaltecoco/img/unknown 8.PNG",
+      "/woods/Tropical/Chaltecoco/img/unknown 9.PNG"
     ]
   },
   {
     "name": "Chechen",
+    "region": "Tropical",
     "engDescription": "Chechen, also known as Black Poisonwood or Caribbean Rosewood, is a dense, durable hardwood native from MesoAmerica, prized for its striking color and grain, and used in furniture, flooring, and more. \nChechen wood exhibits a rich color palette, ranging from golden brown to deep reddish-brown, often with dark streaks and a dramatic, swirling grain. The grain is typically straight or interlocked, and can have a two-toned appearance, similar to true rosewood.\nIt's a dense, durable, and naturally rot-resistant wood. \nChechen is relatively easy to work with despite its hardness, and it sands and finishes to a high polish.",
     "espDescription": "El checheno, también conocido como palo venenoso negro o palo rosa del Caribe, es una madera dura densa y duradera, originaria de Mesoamérica, apreciada por su llamativo color y veta, y utilizada en muebles, suelos y más. La madera de checheno exhibe una rica paleta de colores, que va del marrón dorado al marrón rojizo intenso, a menudo con vetas oscuras y una veta dramática y ondulada. La veta suele ser recta o entrelazada, y puede tener un aspecto bicolor, similar al del palo rosa auténtico. Es una madera densa, duradera y naturalmente resistente a la putrefacción. El checheno es relativamente fácil de trabajar a pesar de su dureza, y se lija y se le aplica un acabado de alto brillo.\n",
     "images": [
-      "/woods/Chechen/img/unknown 2.PNG",
-      "/woods/Chechen/img/unknown 3.PNG",
-      "/woods/Chechen/img/unknown 4.PNG",
-      "/woods/Chechen/img/unknown.PNG"
+      "/woods/Tropical/Chechen/img/unknown 2.PNG",
+      "/woods/Tropical/Chechen/img/unknown 3.PNG",
+      "/woods/Tropical/Chechen/img/unknown 4.PNG",
+      "/woods/Tropical/Chechen/img/unknown.PNG"
     ]
   },
   {
     "name": "Chichipate",
+    "region": "Tropical",
     "engDescription": "is a tropical timber tree known for its warm brown color, subtle striping, and hardness comparable to American walnut, making it suitable for furniture, flooring, and other woodworking projects. \nIt is heartwood is brown to olive with streaks with lighter and darker shades. It has a waxy appearance, medium texture and medium to high luster and takes a high polish. Its lightly figured grain is interlocked and can be roey. The wood has a bitter taste.\nDurable, naturally resistant to decay, relatively easy to work with despite its hardness, sands and finishes to a high polish.",
     "espDescription": "Chichipate (Sweetia panamensis) es un árbol maderable tropical conocido por su cálido color marrón, su sutil veteado y su dureza comparable a la del nogal americano, lo que lo hace ideal para muebles, suelos y otros proyectos de carpintería. Su duramen es de color marrón a oliva, con vetas de tonos más claros y más oscuros. Tiene un aspecto ceroso, una textura media y un brillo de medio a alto, y se pule a fondo. Su veta, ligeramente veteada, es entrelazada y puede presentar vetas rojizas. La madera tiene un sabor amargo. Duradera, naturalmente resistente a la descomposición, relativamente fácil de trabajar a pesar de su dureza. Se lija y se pule a fondo.",
     "images": [
-      "/woods/Chichipate/img/unknown 10.PNG",
-      "/woods/Chichipate/img/unknown 5.PNG",
-      "/woods/Chichipate/img/unknown 6.PNG",
-      "/woods/Chichipate/img/unknown 7.PNG",
-      "/woods/Chichipate/img/unknown 8.PNG",
-      "/woods/Chichipate/img/unknown 9.PNG"
+      "/woods/Tropical/Chichipate/img/unknown 10.PNG",
+      "/woods/Tropical/Chichipate/img/unknown 5.PNG",
+      "/woods/Tropical/Chichipate/img/unknown 6.PNG",
+      "/woods/Tropical/Chichipate/img/unknown 7.PNG",
+      "/woods/Tropical/Chichipate/img/unknown 8.PNG",
+      "/woods/Tropical/Chichipate/img/unknown 9.PNG"
     ]
   },
   {
     "name": "Chicozapote",
+    "region": "Tropical",
     "engDescription": "Sapodilla wood (Manilkara zapota) is known for its durability, making it a popular choice for furniture and other structural uses. It is a hardwood and is resistant to termites and other pests, as well as rot and decay. The wood has a low bending strength, making it unsuitable for use as a bridge or stair tread material. It has a medium-to-high density and can be stained and polished to a smooth finish. Sapodilla wood is also known for its unique grain and color, which range from light brown to dark red.",
     "espDescription": "La madera de chicozapote (Manilkara zapota) es conocida por su durabilidad, lo que la convierte en una opción popular para muebles y otros usos estructurales. Es una madera dura resistente a las termitas y otras plagas, así como a la putrefacción y la descomposición. Tiene baja resistencia a la flexión, lo que la hace inadecuada para puentes o escalones de escalera. Tiene una densidad media-alta y se puede teñir y pulir para obtener un acabado liso. La madera de chicozapote también es conocida por su veta y color únicos, que van del marrón claro al rojo oscuro.",
     "images": [
-      "/woods/Chicozapote/img/unknown 2.PNG",
-      "/woods/Chicozapote/img/unknown 3.PNG",
-      "/woods/Chicozapote/img/unknown.PNG"
+      "/woods/Tropical/Chicozapote/img/unknown 2.PNG",
+      "/woods/Tropical/Chicozapote/img/unknown 3.PNG",
+      "/woods/Tropical/Chicozapote/img/unknown.PNG"
     ]
   },
   {
     "name": "Cola De Coche",
+    "region": "Tropical",
     "engDescription": "Cola de Coche (Pithecolobium arborium)\nThe wood is yellowing grey in the sapwood, merging to banded red brown and gold brown heartwood. \nThe grain is coarse with a ribbon figure, texture is medium, and pores rather large. \nIt weighs 45 lbs. cu. ft. It is 10% to 15% harder than mahogany. Shrinkage is moderate. \nIt seasons well with little splitting and distortion. \nIt is resistant to fungus and insect attack. \nIt works fairly well, but sharp tools are necessary to prevent picking up of grain. \nIt is probably not suitable for rotary peeling but would make good decorative veneer if sliced. \nOtherwise it could be used for most utility and constructional purposes and would make good furniture.",
     "espDescription": "Cola de Coche (Pithecolobium arborium)\nLa madera presenta un color gris amarillento en la albura, que se fusiona con un duramen marrón rojizo y dorado veteado.\nLa veta es gruesa con veta de cinta, la textura es media y los poros son bastante grandes. \nPesa 22.4 kg/m³. Es entre un 10 % y un 15 % más dura que la caoba. Su contracción es moderada. \nSe seca bien, presentando pocas grietas y deformaciones. \nEs resistente a hongos e insectos. \nSe trabaja bastante bien, pero se requieren herramientas afiladas para evitar que se desprenda la veta. \nProbablemente no sea adecuada para el desenrollado rotatorio, pero se podría utilizar como chapa decorativa si se corta en rodajas. \nDe lo contrario, podría utilizarse para la mayoría de los fines utilitarios y de construcción, y sería ideal para la fabricación de muebles.",
     "images": [
-      "/woods/Cola De Coche/img/unknown.PNG"
+      "/woods/Tropical/Cola De Coche/img/unknown.PNG"
     ]
   },
   {
     "name": "Conacaste",
+    "region": "Tropical",
     "engDescription": "Conacaste (Enterolobium cyclocarpum)\nColor/Appearance: Heartwood is light to medium brown, sometimes with a reddish hue. Darker streaks of brown are sometimes present. Sapwood is pale yellow and is clearly demarcated from the heartwood.\nGrain/Texture: Grain usually slightly interlocked. Very coarse texture. Moderate natural luster.\nRot Resistance: Rated as durable to very durable; mixed insect resistance.\nEasy to work with hand and machine tools. However, tearout is common during planing, and fuzzy surfaces may be seen after machining, especially on quartersawn surfaces. Glues and finishes well.",
     "espDescription": "Conacaste (Enterolobium cyclocarpum) Color/Aspecto: El duramen es de color marrón claro a medio, a veces con un tono rojizo. A veces se presentan vetas marrones más oscuras. La albura es de color amarillo pálido y está claramente separada del duramen. Vegete/Textura: El veteado suele estar ligeramente entrelazado. Textura muy gruesa. Brillo natural moderado. Resistencia a la pudrición: Se clasifica como durable a muy durable; resistencia mixta a los insectos. Fácil de trabajar con herramientas manuales y mecánicas. Sin embargo, es común que se produzcan desgarros durante el cepillado, y pueden observarse superficies vellosas después del mecanizado, especialmente en superficies aserradas en cuartos. Se encola y se acaba bien.",
     "images": [
-      "/woods/Conacaste/img/unknown 2.PNG",
-      "/woods/Conacaste/img/unknown 3.PNG",
-      "/woods/Conacaste/img/unknown 4.PNG",
-      "/woods/Conacaste/img/unknown.PNG"
+      "/woods/Tropical/Conacaste/img/unknown 2.PNG",
+      "/woods/Tropical/Conacaste/img/unknown 3.PNG",
+      "/woods/Tropical/Conacaste/img/unknown 4.PNG",
+      "/woods/Tropical/Conacaste/img/unknown.PNG"
     ]
   },
   {
     "name": "Danto",
+    "region": "Tropical",
     "engDescription": "Danto (Vatairea lundelli)\nWood Appearance\nThe wood is bright yellow when freshly sawn and mellows into a brown with red, yellow or olive hues as it dries sometimes with pink veins. It’s a dense timber at 750 kg/m2 with clearly demarcated sapwood and a straight or interlocked grain. It has a coarse texture.\nDanto’s heartwood is quite durable and stable. Due to a moderate susceptibility to fungi and dry wood borers, treatment is recommended.\nDanto is used for high-class furniture, stairs, paneling, fine and industrial flooring, formwork and sliced veneer. It can be used for exteriors, including tables, pergolas, benches, and decking. Construction uses include frames, rails, skirting boards, treads and others requiring medium to high weight-bearing strength.",
     "espDescription": "Danto (Vatairea lundelli) Aspecto de la madera La madera presenta un color amarillo brillante recién aserrada y se suaviza a marrón con matices rojizos, amarillos u oliva al secarse, a veces con vetas rosadas. Es una madera densa de 750 kg/m² con albura claramente definida y veta recta o entrelazada. Presenta una textura gruesa. El duramen del danto es bastante duradero y estable. Debido a su moderada susceptibilidad a hongos y barrenadores de la madera seca, se recomienda su tratamiento. El danto se utiliza para muebles de alta gama, escaleras, paneles, suelos finos e industriales, encofrados y chapa de madera laminada. Se puede utilizar en exteriores, incluyendo mesas, pérgolas, bancos y terrazas. Se utiliza en construcción para marcos, barandillas, rodapiés, peldaños y otros materiales que requieren una resistencia media a alta.",
     "images": [
-      "/woods/Danto/img/unknown 2.PNG",
-      "/woods/Danto/img/unknown 3.PNG",
-      "/woods/Danto/img/unknown.PNG"
+      "/woods/Tropical/Danto/img/unknown 2.PNG",
+      "/woods/Tropical/Danto/img/unknown 3.PNG",
+      "/woods/Tropical/Danto/img/unknown.PNG"
     ]
   },
   {
     "name": "Granadillo",
+    "region": "Tropical",
     "engDescription": "Granadillo (Platymiscium Yucatatum)\nGranadillo is a dense, fine-textured, tropical hardwood known for its reddish-brown to orange hues and darker streaks, often used for both veneers and lumber, and sometimes referred to as Macacauba or Mexican Rosewood. \nGranadillo is used for both veneers and lumber, and can be figured. It's also commonly used in South America for instrument building.\nWhile not a true rosewood, it shares some similarities with Cocobolo, particularly in its appearance and density. However, Granadillo is easier to work with and glues more readily.",
     "espDescription": "Granadillo (Platymiscium Yucatatum) El granadillo es una madera dura tropical densa y de textura fina, conocida por sus tonos que van del marrón rojizo al naranja y sus vetas más oscuras. Se utiliza a menudo tanto para chapas como para madera aserrada, y a veces se le conoce como macacauba o palo rosa mexicano. El granadillo se utiliza tanto para chapas como para madera aserrada, y se puede vetear. También se utiliza comúnmente en Sudamérica para la construcción de instrumentos. Aunque no es un palo rosa auténtico, comparte algunas similitudes con el cocobolo, especialmente en su apariencia y densidad. Sin embargo, el granadillo es más fácil de trabajar y se encola con mayor facilidad.",
     "images": [
-      "/woods/Granadillo/img/unknown 2.PNG",
-      "/woods/Granadillo/img/unknown 3.PNG",
-      "/woods/Granadillo/img/unknown 4.PNG",
-      "/woods/Granadillo/img/unknown 5.PNG",
-      "/woods/Granadillo/img/unknown 6.PNG",
-      "/woods/Granadillo/img/unknown.PNG"
+      "/woods/Tropical/Granadillo/img/unknown 2.PNG",
+      "/woods/Tropical/Granadillo/img/unknown 3.PNG",
+      "/woods/Tropical/Granadillo/img/unknown 4.PNG",
+      "/woods/Tropical/Granadillo/img/unknown 5.PNG",
+      "/woods/Tropical/Granadillo/img/unknown 6.PNG",
+      "/woods/Tropical/Granadillo/img/unknown.PNG"
     ]
   },
   {
     "name": "Hormigo",
+    "region": "Tropical",
     "engDescription": "Hormigo wood, also known as Macacauba or Macawood, is a dense, exotic hardwood with a finely textured grain and a range of colors from red and orange to darker red and brown. \nWorks and machines well with sharp hand and power tools, turns and glues well, and yields a high polish. Has a natural luster and a high degree of chatoyance often emerges after finish sanding. \nUsed for Furniture, guitars, and other woodworking projects.",
     "espDescription": "Hormigo (Platymiscium Dimarphandrum) La madera de hormigo, también conocida como macacauba o macawood, es una madera dura densa y exótica con una veta fina y una gama de colores que va del rojo y el naranja al rojo y el marrón más oscuros. Se trabaja y mecaniza bien con herramientas manuales y eléctricas afiladas, se tornea y encola bien, y ofrece un pulido excelente. Tiene un brillo natural y suele presentar un alto grado de chatoyance tras el lijado de acabado. Se utiliza para muebles, guitarras y otros proyectos de carpintería.",
     "images": [
-      "/woods/Hormigo/img/unknown 2.PNG",
-      "/woods/Hormigo/img/unknown 3.PNG",
-      "/woods/Hormigo/img/unknown.PNG"
+      "/woods/Tropical/Hormigo/img/unknown 2.PNG",
+      "/woods/Tropical/Hormigo/img/unknown 3.PNG",
+      "/woods/Tropical/Hormigo/img/unknown.PNG"
     ]
   },
   {
     "name": "Jobillo",
+    "region": "Tropical",
     "engDescription": "Jobillo wood, also known as Goncalo Alves or Tigerwood, is a durable, reddish-brown hardwood with dark streaks, prized for its beauty and used in furniture, flooring, and decorative items. It is Moderately hard and heavy. Very durable, resists decay, and has excellent weathering properties.  Generally not too difficult to work, though figured pieces with irregular grain can pose a challenge in planing and machining. Turns and finishes well.",
     "espDescription": "Jobillo (Astronomía Graveolens) La madera de jobillo, también conocida como Goncalo Alves o Tigerwood, es una madera dura duradera de color marrón rojizo con vetas oscuras, apreciada por su belleza y utilizada en muebles, suelos y artículos decorativos. Es moderadamente dura y pesada. Muy duradera, resistente a la descomposición y con excelentes propiedades anti-intemperie. Generalmente no es muy difícil de trabajar, aunque las piezas con vetas irregulares pueden presentar dificultades para el cepillado y el mecanizado. Se tornea y se acaba bien.",
     "images": [
-      "/woods/Jobillo/img/unknown 2.PNG",
-      "/woods/Jobillo/img/unknown 3.PNG",
-      "/woods/Jobillo/img/unknown 4.PNG",
-      "/woods/Jobillo/img/unknown 5.PNG",
-      "/woods/Jobillo/img/unknown 6.PNG",
-      "/woods/Jobillo/img/unknown.PNG"
+      "/woods/Tropical/Jobillo/img/unknown 2.PNG",
+      "/woods/Tropical/Jobillo/img/unknown 3.PNG",
+      "/woods/Tropical/Jobillo/img/unknown 4.PNG",
+      "/woods/Tropical/Jobillo/img/unknown 5.PNG",
+      "/woods/Tropical/Jobillo/img/unknown 6.PNG",
+      "/woods/Tropical/Jobillo/img/unknown.PNG"
     ]
   },
   {
     "name": "Malerio",
+    "region": "Tropical",
     "engDescription": "Malerio Colorado (Aspidosperma megalocarpum)\nColor/Appearance: Heartwood ranges from golden yellow to reddish brown, sometimes with violet/pinkish streaks. Yellowish sapwood not always clearly demarcated from heartwood. Color tends to darken with age.\nGrain/Texture: Grain is straight with a uniform medium texture.\nRot Resistance: Durability can vary based on growing location: rated anywhere from moderately durable to very durable regarding decay resistance, though susceptible to insect attack.\nWorkability: Overall easy to work, producing good results, though Araracanga has an above average blunting effect on cutters. Glues, turns, and finishes well.",
     "espDescription": "Malerio Colorado (Aspidosperma megalocarpum) Color/Apariencia: El duramen varía del amarillo dorado al marrón rojizo, a veces con vetas violáceas/rosadas. La albura amarillenta no siempre está claramente diferenciada del duramen. El color tiende a oscurecerse con la edad. Vegete/Textura: El veteado es recto, con una textura media uniforme. Resistencia a la pudrición: La durabilidad puede variar según la zona de cultivo: se clasifica entre moderadamente durable y muy durable en cuanto a resistencia a la pudrición, aunque susceptible al ataque de insectos. Trabajabilidad: En general, es fácil de trabajar, con buenos resultados, aunque la araracanga tiene un efecto de despuntado superior al promedio en los cortadores. Se encola, se tornea y se acaba bien.",
     "images": [
-      "/woods/Malerio/img/unknown 4.PNG",
-      "/woods/Malerio/img/unknown 5.PNG",
-      "/woods/Malerio/img/unknown 6.PNG"
+      "/woods/Tropical/Malerio/img/unknown 4.PNG",
+      "/woods/Tropical/Malerio/img/unknown 5.PNG",
+      "/woods/Tropical/Malerio/img/unknown 6.PNG"
     ]
   },
   {
     "name": "Manchiche",
+    "region": "Tropical",
     "engDescription": "Machiche wood, is a durable, strong, and easy-to-work-with hardwood native to the Yucatan Peninsula, Belize, and Guatemala, used in heavy construction, flooring, furniture, and other applications, including railroad crossties.\nMachiche is used for furniture components, including legs, frames, and panels.\nIts resistance to wear and tear makes it a good choice for flooring. \nMachiche is also used for decking applications. \nHigh Bending Strength Machiche boasts a high bending strength, even greater than Ipe.",
     "espDescription": "",
     "images": [
-      "/woods/Manchiche/img/unknown 2.PNG",
-      "/woods/Manchiche/img/unknown 3.PNG",
-      "/woods/Manchiche/img/unknown 4.PNG",
-      "/woods/Manchiche/img/unknown.PNG"
+      "/woods/Tropical/Manchiche/img/unknown 2.PNG",
+      "/woods/Tropical/Manchiche/img/unknown 3.PNG",
+      "/woods/Tropical/Manchiche/img/unknown 4.PNG",
+      "/woods/Tropical/Manchiche/img/unknown.PNG"
     ]
   },
   {
     "name": "Mohogany",
+    "region": "Tropical",
     "engDescription": "Mahogany  (Swietenia macrophylla)\nStraight-grained, reddish-brown timber hardwood species.\nMost of the uses are for high-end furniture, interior trim, panelling, flooring and musical instruments.\nOur mahogany is being used by Gibson, Les-Paul, Tylor and Martin guitars.\n",
     "espDescription": "Caoba (Swietenia macrophylla) Especie de madera dura de veta recta y color marrón rojizo. Se utiliza principalmente en muebles de alta gama, molduras de interiores, paneles, suelos e instrumentos musicales. Nuestra caoba se utiliza en guitarras Gibson, Les-Paul, Tylor y Martin.",
     "images": [
-      "/woods/Mohogany/img/unknown 2.PNG",
-      "/woods/Mohogany/img/unknown 3.PNG",
-      "/woods/Mohogany/img/unknown 4.PNG",
-      "/woods/Mohogany/img/unknown.PNG"
+      "/woods/Tropical/Mohogany/img/unknown 2.PNG",
+      "/woods/Tropical/Mohogany/img/unknown 3.PNG",
+      "/woods/Tropical/Mohogany/img/unknown 4.PNG",
+      "/woods/Tropical/Mohogany/img/unknown.PNG"
     ]
   },
   {
     "name": "Pucte",
+    "region": "Tropical",
     "engDescription": "Pucte (Bucida Buceras)**\nPucte is a durable hardwood that showcases a beautiful range of colors, from yellowish to greenish brown, often accompanied by an olive hue. Its unique interwoven grain patterns can create striking longitudinal stripes, adding character to the wood.\nThis versatile wood is ideal for various applications, including heavy-duty and residential flooring, furniture, interior trim, and decking. Additionally, its robust nature makes it a valuable choice for marine construction projects, such as ship keels and bridges, particularly in environments where bores are not present.",
     "espDescription": "Pucte (Bucida Buceras)** El pucte es una madera dura y duradera que presenta una hermosa gama de colores, desde el amarillento hasta el marrón verdoso, a menudo acompañado de un tono oliva. Sus singulares vetas entrelazadas crean llamativas rayas longitudinales que le aportan carácter. Esta versátil madera es ideal para diversas aplicaciones, como suelos de alta resistencia y residenciales, muebles, molduras interiores y terrazas. Además, su robustez la convierte en una opción valiosa para proyectos de construcción naval, como quillas y puentes de barcos, especialmente en entornos sin perforaciones.",
     "images": [
-      "/woods/Pucte/img/unknown 2.PNG",
-      "/woods/Pucte/img/unknown 3.PNG",
-      "/woods/Pucte/img/unknown 4.PNG",
-      "/woods/Pucte/img/unknown.PNG"
+      "/woods/Tropical/Pucte/img/unknown 2.PNG",
+      "/woods/Tropical/Pucte/img/unknown 3.PNG",
+      "/woods/Tropical/Pucte/img/unknown 4.PNG",
+      "/woods/Tropical/Pucte/img/unknown.PNG"
     ]
   },
   {
     "name": "Ramon Blanco",
+    "region": "Tropical",
     "engDescription": "Ramon Blanco (Brosimun allicastrum)\nColor/Appearance: Heartwood and sapwood are both a pale yellow to light brown and are indistinguishable from each other. Another variety called ramon colorado can have a darker orangish brown false heartwood, often with darker streaks (frequency and extent of this coloration depends on growing conditions and age of tree). Sapwood is prone to fungal staining if not dried properly.\nGrain/Texture: Grain is usually straight, or irregular and shallowly interlocked, with a medium to fine texture. Moderate to high natural luster.\nRot Resistance: Non-durable; poor resistance to decay or insect attack.\nCan be difficult to work with hand tools on account of its grain and density—as well as a reported silica content of .68%, which can prematurely dull cutters. Irregular or interlocked grain can pose a challenge when machining, otherwise it has good machinability in straight-grained material. Glues, stains, and finishes well.",
     "espDescription": "Ramón Blanco (Brosimun allicastrum) Color/Aspecto: El duramen y la albura presentan un color entre amarillo pálido y marrón claro, siendo indistinguibles entre sí. Otra variedad, llamada ramon colorado, puede presentar un falso duramen de color marrón anaranjado más oscuro, a menudo con vetas más oscuras (la frecuencia y la intensidad de esta coloración dependen de las condiciones de crecimiento y la edad del árbol). La albura es propensa a las manchas por hongos si no se seca correctamente. Veta/Textura: La veta suele ser recta o irregular y poco entrelazada, con una textura de media a fina. Brillo natural de moderado a alto. Resistencia a la pudrición: No durable; poca resistencia a la descomposición o al ataque de insectos. Puede ser difícil de trabajar con herramientas manuales debido a su veta y densidad, así como a un contenido de sílice reportado del 0,68 %, que puede desafilar prematuramente las cuchillas. La veta irregular o entrelazada puede representar un desafío para el mecanizado; por lo demás, presenta buena maquinabilidad en materiales de veta recta. Se pega, se tiñe y se acaba bien.",
     "images": [
-      "/woods/Ramon Blanco/img/unknown 2.PNG",
-      "/woods/Ramon Blanco/img/unknown 3.PNG",
-      "/woods/Ramon Blanco/img/unknown 4.PNG",
-      "/woods/Ramon Blanco/img/unknown.PNG"
+      "/woods/Tropical/Ramon Blanco/img/unknown 2.PNG",
+      "/woods/Tropical/Ramon Blanco/img/unknown 3.PNG",
+      "/woods/Tropical/Ramon Blanco/img/unknown 4.PNG",
+      "/woods/Tropical/Ramon Blanco/img/unknown.PNG"
     ]
   },
   {
     "name": "Rosewood",
+    "region": "Tropical",
     "engDescription": "Rosewood,  (Dalbergia stevensonii) \nis a valuable Central American hardwood native to broadleaf evergreen swamp forests in southern Belize, Guatemala, and adjacent Mexicoz. \nDense and durable rich reddish-brown to purplish hues, often with darker streaks .Fine, even texture and natural luster. Commercial Importance: Highly valued for its wood, which has led to population loss from illegal logging.\n",
     "espDescription": "El palo rosa (Dalbergia stevensonii) es una valiosa madera dura centroamericana, nativa de los bosques pantanosos de hoja ancha siempreverdes del sur de Belice, Guatemala y México adyacente. Densos y duraderos, presentan ricos tonos marrón rojizo a violáceo, a menudo con vetas más oscuras. Textura fina y uniforme, y brillo natural. Importancia comercial: Su madera es muy apreciada, lo que ha provocado la pérdida de poblaciones debido a la tala ilegal.",
     "images": [
-      "/woods/Rosewood/img/unknown 5.PNG",
-      "/woods/Rosewood/img/unknown 6.PNG",
-      "/woods/Rosewood/img/unknown 7.PNG",
-      "/woods/Rosewood/img/unknown 8.PNG"
+      "/woods/Tropical/Rosewood/img/unknown 5.PNG",
+      "/woods/Tropical/Rosewood/img/unknown 6.PNG",
+      "/woods/Tropical/Rosewood/img/unknown 7.PNG",
+      "/woods/Tropical/Rosewood/img/unknown 8.PNG"
     ]
   },
   {
     "name": "Santa Maria",
+    "region": "Tropical",
     "engDescription": "Santa Maria  Calophyllum brasiliense\nA durable hardwood characterized by its rich coloration and beautiful grain. It is commonly used in furniture, flooring, boat construction, cabinet work and veneers.",
     "espDescription": "Santa Maria Calophyllum brasiliense Una madera dura y duradera que se caracteriza por su rica coloración y hermosa veta. Se utiliza comúnmente en muebles, pisos, construcción de embarcaciones, ebanistería y enchapados.",
     "images": [
-      "/woods/Santa Maria/img/unknown 2.PNG",
-      "/woods/Santa Maria/img/unknown 3.PNG",
-      "/woods/Santa Maria/img/unknown 4.PNG",
-      "/woods/Santa Maria/img/unknown 5.PNG",
-      "/woods/Santa Maria/img/unknown.PNG"
+      "/woods/Tropical/Santa Maria/img/unknown 2.PNG",
+      "/woods/Tropical/Santa Maria/img/unknown 3.PNG",
+      "/woods/Tropical/Santa Maria/img/unknown 4.PNG",
+      "/woods/Tropical/Santa Maria/img/unknown 5.PNG",
+      "/woods/Tropical/Santa Maria/img/unknown.PNG"
     ]
   },
   {
     "name": "Teak",
+    "region": "Tropical",
     "engDescription": "Teak (Tectona grandis) \nis a tropical hardwoodtree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. \nTeak wood has a leather-like smell when it is freshly milled and is particularly valued for its durability and water resistance. The wood is used for boat building, exterior construction, veneer, furniture, carving, turnings, and various small project",
     "espDescription": "La teca (Tectona grandis) es una especie de frondosa tropical de la familia Lamiaceae. Es un árbol grande y caducifolio que crece en bosques mixtos de frondosas. La madera de teca desprende un olor a cuero recién aserrada y es especialmente apreciada por su durabilidad y resistencia al agua. Se utiliza para la construcción de barcos, la construcción de exteriores, chapas, muebles, tallado, torneado y diversos proyectos pequeños.",
     "images": [
-      "/woods/Teak/img/unknown 2.PNG",
-      "/woods/Teak/img/unknown 3.PNG",
-      "/woods/Teak/img/unknown 4.PNG",
-      "/woods/Teak/img/unknown 5.PNG",
-      "/woods/Teak/img/unknown.PNG"
+      "/woods/Tropical/Teak/img/unknown 2.PNG",
+      "/woods/Tropical/Teak/img/unknown 3.PNG",
+      "/woods/Tropical/Teak/img/unknown 4.PNG",
+      "/woods/Tropical/Teak/img/unknown 5.PNG",
+      "/woods/Tropical/Teak/img/unknown.PNG"
     ]
   },
   {
     "name": "Tzalam",
+    "region": "Tropical",
     "engDescription": "Tzalam (Lysiloma Bahamensis) also known as Caribbean walnut or Mayan walnut, is a dense, durable, and rot-resistant tropical hardwood native to MesoAmerica, prized for its beauty and strength, making it suitable for furniture, flooring, and other applications. \nIs typically has a light to medium brown heartwood, sometimes with reddish or purple hues. It has an open, uniform texture with a medium luster. The grain pattern is generally straight. Some boards can resemble Hawaiian koa, and it's often compared to American black walnut. \nIt is a dense and hard wood, making it durable and resistant to wear and tear, is naturally resistant to rot and decay. \nTzalam is a popular choice for furniture, including tables, chairs, and cabinets.\nIts durability makes it suitable for flooring applications. It's also used for veneer. \nTzalam's resistance to weather and humidity makes it suitable for outdoor furniture, docks, and other exterior applications.",
     "espDescription": "El Tzalam (Lysiloma Bahamensis) También conocido como nogal caribeño o nogal maya, es una madera dura tropical densa, duradera y resistente a la putrefacción, originaria de Mesoamérica. Es apreciada por su belleza y resistencia, lo que la hace ideal para muebles, pisos y otras aplicaciones. Su duramen suele ser de color marrón claro a medio, a veces con tonos rojizos o morados. Presenta una textura abierta y uniforme con un brillo medio. El veteado suele ser recto. Algunas tablas pueden parecerse a la koa hawaiana y a menudo se compara con el nogal negro americano. Es una madera densa y dura, lo que la hace duradera y resistente al desgaste, y naturalmente resistente a la putrefacción y la descomposición. El Tzalam es una opción popular para muebles, como mesas, sillas y armarios. Su durabilidad lo hace ideal para pisos. También se utiliza para enchapados. La resistencia del Tzalam a la intemperie y la humedad lo hace ideal para muebles de exterior, muelles y otras aplicaciones en exteriores.",
     "images": [
-      "/woods/Tzalam/img/unknown 2.PNG",
-      "/woods/Tzalam/img/unknown 3.PNG",
-      "/woods/Tzalam/img/unknown 4.PNG",
-      "/woods/Tzalam/img/unknown.PNG"
+      "/woods/Tropical/Tzalam/img/unknown 2.PNG",
+      "/woods/Tropical/Tzalam/img/unknown 3.PNG",
+      "/woods/Tropical/Tzalam/img/unknown 4.PNG",
+      "/woods/Tropical/Tzalam/img/unknown.PNG"
     ]
   }
 ]

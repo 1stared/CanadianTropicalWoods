@@ -12,10 +12,23 @@ const WoodShowcase = () => {
       .catch((error) => console.error("Error loading wood data:", error));
   }, []);
 
+  const tropicalWoods = woods.filter((wood) => wood.region === "Tropical");
+  const canadianWoods = woods.filter((wood) => wood.region === "Canadian");
+
   return (
     <div className="woodshowcase-container"> {/* Add a unique class */}
+      <h1>Tropical Woods</h1>
       <div className="wood-grid">
-        {woods.map((wood) => (
+        {tropicalWoods.map((wood) => (
+          <Link key={wood.name} to={`/wood/${wood.name}`} className="wood-card">
+            <img src={wood.images[0]} alt={wood.name} className="wood-image" />
+            <h2>{wood.name}</h2>
+          </Link>
+        ))}
+      </div>
+      <h1>Canadian Woods</h1>
+      <div className="wood-grid">
+        {canadianWoods.map((wood) => (
           <Link key={wood.name} to={`/wood/${wood.name}`} className="wood-card">
             <img src={wood.images[0]} alt={wood.name} className="wood-image" />
             <h2>{wood.name}</h2>

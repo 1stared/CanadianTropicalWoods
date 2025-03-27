@@ -16,7 +16,6 @@ function App() {
           <>
             <About />
             <section id="woodshowcase" className="section">
-              <h1>Showcase</h1>
               <WoodShowcase />
             </section>
             <Contact />

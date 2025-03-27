@@ -8,42 +8,53 @@ const woodsDir = path.join(__dirname, 'public', 'woods');
 const generateWoodData = () => {
   const woodsData = [];
 
-  // Read all the wood folders inside 'woods' directory
-  const woodFolders = fs.readdirSync(woodsDir);
+  // Read all the region folders inside 'woods' directory
+  const regionFolders = fs.readdirSync(woodsDir);
 
-  // Loop through each wood folder
-  woodFolders.forEach((woodFolder) => {
-    const woodPath = path.join(woodsDir, woodFolder);
-    
+  // Loop through each region folder
+  regionFolders.forEach((regionFolder) => {
+    const regionPath = path.join(woodsDir, regionFolder);
+
     // Skip if not a directory
-    if (!fs.statSync(woodPath).isDirectory()) return;
+    if (!fs.statSync(regionPath).isDirectory()) return;
 
-    const engFilePath = path.join(woodPath, 'eng.txt');
-    const espFilePath = path.join(woodPath, 'esp.txt');
-    const imagesDirPath = path.join(woodPath, 'img');
+    // Read all the wood folders inside the region folder
+    const woodFolders = fs.readdirSync(regionPath);
 
-    // Read the description files (eng.txt and esp.txt)
-    let engDescription = '';
-    let espDescription = '';
-    try {
-      engDescription = fs.readFileSync(engFilePath, 'utf8');
-      espDescription = fs.readFileSync(espFilePath, 'utf8');
-    } catch (err) {
-      console.error(`Error reading text files for ${woodFolder}:`, err);
-    }
+    woodFolders.forEach((woodFolder) => {
+      const woodPath = path.join(regionPath, woodFolder);
 
-    // Get the list of image files
-    let images = [];
-    if (fs.existsSync(imagesDirPath)) {
-      images = fs.readdirSync(imagesDirPath).filter(file => file.endsWith('.PNG')).map(image => `/woods/${woodFolder}/img/${image}`);
-    }
+      // Skip if not a directory
+      if (!fs.statSync(woodPath).isDirectory()) return;
 
-    // Create the wood object and add it to the woodsData array
-    woodsData.push({
-      name: woodFolder,
-      engDescription,
-      espDescription,
-      images
+      const engFilePath = path.join(woodPath, 'eng.txt');
+      const espFilePath = path.join(woodPath, 'esp.txt');
+      const imagesDirPath = path.join(woodPath, 'img');
+
+      // Read the description files (eng.txt and esp.txt)
+      let engDescription = '';
+      let espDescription = '';
+      try {
+        engDescription = fs.readFileSync(engFilePath, 'utf8');
+        espDescription = fs.readFileSync(espFilePath, 'utf8');
+      } catch (err) {
+        console.error(`Error reading text files for ${woodFolder}:`, err);
+      }
+
+      // Get the list of image files
+      let images = [];
+      if (fs.existsSync(imagesDirPath)) {
+        images = fs.readdirSync(imagesDirPath).filter(file => file.endsWith('.PNG')).map(image => `/woods/${regionFolder}/${woodFolder}/img/${image}`);
+      }
+
+      // Create the wood object and add it to the woodsData array
+      woodsData.push({
+        name: woodFolder,
+        region: regionFolder,
+        engDescription,
+        espDescription,
+        images
+      });
     });
   });
 
