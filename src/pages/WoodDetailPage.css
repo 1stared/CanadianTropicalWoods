@@ -1,0 +1,83 @@
+.wood-detail-container {
+  text-align: center;
+  margin: 40px;
+  width: auto;
+}
+
+.wood-detail-container h1{
+  font-size: 2.5rem;
+  margin: 20px;
+}
+
+.description-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.wood-description {
+  margin: 0;
+  text-align: left;
+  max-width: 800px;
+}
+
+.wood-description h1 {
+  margin: 0;
+}
+
+.wood-description p {
+  font-size: 1.2rem; /* Make the paragraph text larger */
+}
+
+.slick-dots li button:before {
+  color: #333; /* Change dot color */
+  font-size: 12px; /* Adjust dot size */
+}
+
+.slick-dots li.slick-active button:before {
+  color: #111; /* Darker highlight for active dot */
+}
+
+.slick-prev:before, .slick-next:before{
+  color:#111;
+}
+
+.slider-container {
+  margin: 20px auto;
+  max-width: 800px;
+  position: relative;
+}
+
+.wood-slider .image-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.wood-slider .wood-image {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.slick-prev, .slick-next {
+  z-index: 1;
+  color: #333; /* Customize arrow color */
+}
+
+.toggle-button {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #6c757d; /* Grey color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-button:hover {
+  background-color: #5a6268; /* Darker grey on hover */
+}

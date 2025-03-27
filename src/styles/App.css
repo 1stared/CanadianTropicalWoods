@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  padding: 40px;
+  text-align: left;
+}
+
+#woodshowcase h1 {
+  font-size: 30px;
+}
