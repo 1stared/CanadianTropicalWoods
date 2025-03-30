@@ -65,6 +65,18 @@
   flex: 0 0 auto;
 }
 
+.contact-button {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #D9D9D9;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
 @media (max-width: 768px) {
   .section.responsive {
     flex-direction: column;

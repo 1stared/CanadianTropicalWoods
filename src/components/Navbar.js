@@ -13,11 +13,13 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-left">
         {isHomePage ? (
-          <img 
-            src={logo} 
-            alt="Canadian & Tropical Woods Inc." 
-            className="navbar-logo" // Removed inline styles
-          />
+          <div>
+            <img 
+              src={logo} 
+              alt="Canadian & Tropical Woods Inc." 
+              className="navbar-logo" // Removed inline styles
+            />
+          </div>
         ) : (
           <RouterLink to="/">
             <img 

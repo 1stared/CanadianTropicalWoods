@@ -1,9 +1,12 @@
 import React from "react";
+import { Link as ScrollLink } from "react-scroll";
 import "../styles/About.css";
 import Icon from '../assets/rainforest_alliance_logo.PNG';
 import backgroundImage from '../assets/tikal_background.png';
 
 const About = () => {
+  const animationSpeed = 10;
+  
   return (
     <section 
       id="about" 
@@ -17,6 +20,7 @@ const About = () => {
         <p>Our mission focuses on providing a responsible supply of both precious and semi-precious woods, serving various industries such as cabinetmaking, furniture design, musical instrument fabrication, construction, and more.</p>
         <p>Additionally, we offer a wide range of high-quality lumber sourced from Canada, ensuring our clients have access to premium materials that meet their diverse needs.</p>
         <p>Certificates: FSC C153948, PEFC/01-31-26, SFI-01 895. FSC C001844, PEFC/29-31-183, SFI-00057, EU Ecolabel FR/011/10. FSC C014249.</p>
+        <button className="contact-button"><ScrollLink to="contact" smooth={true} duration={animationSpeed}>Contact Us</ScrollLink></button>
         
       </div>
       <div className="icon">
