@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-left">
         {isHomePage ? (
-          <div>
+          <div className="navbar-logo-container">
             <img 
               src={logo} 
               alt="Canadian & Tropical Woods Inc." 

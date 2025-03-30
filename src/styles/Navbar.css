@@ -2,8 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-left: 40px;
+  padding-right: 40px;
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #222222;
@@ -80,5 +80,10 @@
 
   .navbar-right a {
     margin-left: 0;
+    text-align: center;
+  }
+
+  .navbar-logo-container {
+    text-align: center;
   }
 }
