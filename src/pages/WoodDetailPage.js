@@ -51,7 +51,13 @@ const WoodDetailPage = () => {
       <h1>{wood.name}</h1>
       <div className="description-container">
         <div className="wood-description">
-          <p>{showEnglish ? wood.engDescription : wood.espDescription}</p>
+          {showEnglish
+            ? wood.engDescription.split("\n").map((line, index) => (
+                <p key={index}>{line}</p>
+              ))
+            : wood.espDescription.split("\n").map((line, index) => (
+                <p key={index}>{line}</p>
+              ))}
           <button 
             className="toggle-button" 
             onClick={toggleLanguage}
