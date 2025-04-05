@@ -6,9 +6,16 @@
   color: white;
 }
 
-.contact-person h2 {
+.contact-person h4 {
   margin-bottom: .5rem;
 }
+
 .contact-person p {
   margin: 0;
+}
+
+.contacts-flex {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
 }
