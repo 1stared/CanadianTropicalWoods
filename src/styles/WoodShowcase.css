@@ -68,7 +68,7 @@
 
 @media (max-width: 599px) {
   .woodshowcase-container .wood-grid {
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
   .woodshowcase-container .wood-card {
     flex: 1 1 100%;
