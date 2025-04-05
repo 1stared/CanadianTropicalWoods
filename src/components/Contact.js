@@ -23,7 +23,7 @@ function Contact() {
           <div className="contact-office">
             <h2>México Office</h2>
             <div className="contact-person">
-              <h4>Mario Bufalino</h4>
+              <h4>Pepe Avendaño</h4>
               <p>jose.a@canadiantropicalwoods.ca</p>
               <p>+52 (55) 4353-7402</p>
             </div>
