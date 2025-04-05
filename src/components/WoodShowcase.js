@@ -22,7 +22,9 @@ const WoodShowcase = () => {
         <div className="wood-grid">
           {tropicalWoods.map((wood) => (
             <Link key={wood.name} to={`/wood/${wood.name}`} className="wood-card">
-              <img src={wood.images[0]} alt={wood.name} className="wood-image" />
+              <div className="wood-image-container">
+                <img src={wood.images[0]} alt={wood.name} className="wood-image" />
+              </div>
               <h2>{wood.name}</h2>
             </Link>
           ))}
@@ -33,7 +35,9 @@ const WoodShowcase = () => {
         <div className="wood-grid">
           {canadianWoods.map((wood) => (
             <Link key={wood.name} to={`/wood/${wood.name}`} className="wood-card">
-              <img src={wood.images[0]} alt={wood.name} className="wood-image" />
+              <div className="wood-image-container">
+                <img src={wood.images[0]} alt={wood.name} className="wood-image" />
+              </div>
               <h2>{wood.name}</h2>
             </Link>
           ))}
