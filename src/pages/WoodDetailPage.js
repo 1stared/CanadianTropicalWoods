@@ -8,8 +8,8 @@ import "../styles/WoodDetailPage.css";
 const WoodDetailPage = () => {
   const { woodName } = useParams();
   const [wood, setWood] = useState(null);
-  const [showEnglish, setShowEnglish] = useState(
-    localStorage.getItem("language") === "english" // Retrieve language preference
+  const [language, setLanguage] = useState(
+    localStorage.getItem("language") || "eng" // Default to English
   );
 
   useEffect(() => {
@@ -22,10 +22,9 @@ const WoodDetailPage = () => {
       .catch((error) => console.error("Error loading wood data:", error));
   }, [woodName]);
 
-  const toggleLanguage = () => {
-    const newLanguage = showEnglish ? "spanish" : "english";
-    localStorage.setItem("language", newLanguage); // Save language preference
-    setShowEnglish(!showEnglish);
+  const handleLanguageChange = (lang) => {
+    localStorage.setItem("language", lang); // Save language preference
+    setLanguage(lang);
   };
 
   if (!wood) {
@@ -51,26 +50,42 @@ const WoodDetailPage = () => {
       <h1>{wood.name}</h1>
       <div className="description-container">
         <div className="wood-description">
-          {showEnglish
-            ? wood.engDescription.split("\n").map((line, index) => (
-                <p key={index}>{line}</p>
-              ))
-            : wood.espDescription.split("\n").map((line, index) => (
-                <p key={index}>{line}</p>
-              ))}
-          <button 
-            className="toggle-button" 
-            onClick={toggleLanguage}
-          >
-            {showEnglish ? "Ver en Español" : "View in English"}
-          </button>
+          {wood[`${language}Description`]
+            ? wood[`${language}Description`]
+                .split("\n")
+                .map((line, index) => <p key={index}>{line}</p>)
+            : <p>Description not available in the selected language.</p>}
         </div>
+      </div>
+      <div className="language-selector">
+        <button
+          className={`language-button ${language === "eng" ? "active" : ""}`}
+          onClick={() => handleLanguageChange("eng")}
+        >
+          English
+        </button>
+        <button
+          className={`language-button ${language === "esp" ? "active" : ""}`}
+          onClick={() => handleLanguageChange("esp")}
+        >
+          Español
+        </button>
+        <button
+          className={`language-button ${language === "fre" ? "active" : ""}`}
+          onClick={() => handleLanguageChange("fre")}
+        >
+          Français
+        </button>
       </div>
       <div className="slider-container">
         <Slider {...woodDetailSliderSettings} className="wood-slider">
           {wood.images.map((image, index) => (
             <div key={index} className="image-slide">
-              <img src={image} alt={`${wood.name} - ${index}`} className="wood-image" />
+              <img
+                src={image}
+                alt={`${wood.name} - ${index}`}
+                className="wood-image"
+              />
             </div>
           ))}
         </Slider>

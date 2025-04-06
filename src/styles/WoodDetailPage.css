@@ -80,3 +80,29 @@
 .toggle-button:hover {
   background-color: #5a6268; /* Darker grey on hover */
 }
+
+.language-selector {
+  margin: 20px auto; /* Centered and spaced below the description */
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.language-button {
+  padding: 5px 10px; /* Reduce padding to half */
+  font-size: 0.8rem; /* Reduce font size */
+  background-color: #6c757d; /* Grey color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.language-button.active {
+  background-color: #007bff; /* Blue for active language */
+}
+
+.language-button:hover {
+  background-color: #5a6268; /* Darker grey on hover */
+}
