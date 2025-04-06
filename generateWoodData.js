@@ -29,14 +29,17 @@ const generateWoodData = () => {
 
       const engFilePath = path.join(woodPath, 'eng.txt');
       const espFilePath = path.join(woodPath, 'esp.txt');
+      const freFilePath = path.join(woodPath, 'fre.txt');
       const imagesDirPath = path.join(woodPath, 'img');
 
       // Read the description files (eng.txt and esp.txt)
       let engDescription = '';
       let espDescription = '';
+      let freDescription = '';
       try {
         engDescription = fs.readFileSync(engFilePath, 'utf8');
         espDescription = fs.readFileSync(espFilePath, 'utf8');
+        freDescription = fs.readFileSync(freFilePath, 'utf8');
       } catch (err) {
         console.error(`Error reading text files for ${woodFolder}:`, err);
       }
@@ -53,6 +56,7 @@ const generateWoodData = () => {
         region: regionFolder,
         engDescription,
         espDescription,
+        freDescription,
         images
       });
     });
