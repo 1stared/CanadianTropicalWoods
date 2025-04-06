@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -7,7 +7,9 @@ import "../styles/WoodDetailPage.css";
 
 const WoodDetailPage = () => {
   const { woodName } = useParams();
+  const navigate = useNavigate();
   const [wood, setWood] = useState(null);
+  const [woodsList, setWoodsList] = useState([]);
   const [language, setLanguage] = useState(
     localStorage.getItem("language") || "eng" // Default to English
   );
@@ -16,6 +18,7 @@ const WoodDetailPage = () => {
     fetch("/woods/woodsData.json")
       .then((response) => response.json())
       .then((data) => {
+        setWoodsList(data);
         const foundWood = data.find((w) => w.name === woodName);
         setWood(foundWood);
       })
@@ -25,6 +28,16 @@ const WoodDetailPage = () => {
   const handleLanguageChange = (lang) => {
     localStorage.setItem("language", lang); // Save language preference
     setLanguage(lang);
+  };
+
+  const handleNavigation = (direction) => {
+    if (!woodsList.length) return;
+    const currentIndex = woodsList.findIndex((w) => w.name === woodName);
+    const newIndex =
+      direction === "next"
+        ? (currentIndex + 1) % woodsList.length
+        : (currentIndex - 1 + woodsList.length) % woodsList.length;
+    navigate(`/wood/${woodsList[newIndex].name}`);
   };
 
   if (!wood) {
@@ -47,7 +60,11 @@ const WoodDetailPage = () => {
 
   return (
     <div className="wood-detail-container">
-      <h1>{wood.name}</h1>
+      <div className="title-navigation">
+        <button onClick={() => handleNavigation("prev")}>&larr;</button> {/* Left arrow */}
+        <h1>{wood.name}</h1>
+        <button onClick={() => handleNavigation("next")}>&rarr;</button> {/* Right arrow */}
+      </div>
       <div className="description-container">
         <div className="wood-description">
           {wood[`${language}Description`]

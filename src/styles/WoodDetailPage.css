@@ -2,10 +2,12 @@
   text-align: center;
   padding: 40px;
   width: auto;
+  max-width: 800px; /* Set maximum width */
+  margin: 0 auto; /* Center the container */
 }
 
-.wood-detail-container h1{
-  font-size: 2.5rem;
+.wood-detail-container h1 {
+  font-size: 2.2rem;
   margin: 20px;
 }
 
@@ -26,12 +28,12 @@
 }
 
 .wood-description p {
-  font-size: 1.2rem; /* Make the paragraph text larger */
+  font-size: 1.1rem;
 }
 
 .slick-dots li button:before {
-  color: #333; /* Change dot color */
-  font-size: 12px; /* Adjust dot size */
+  color: #333;
+  font-size: 12px;
 }
 
 .slick-dots li.slick-active button:before {
@@ -89,14 +91,16 @@
 }
 
 .language-button {
-  padding: 5px 10px; /* Reduce padding to half */
-  font-size: 0.8rem; /* Reduce font size */
+  padding: 5px 10px; /* Maintain consistent padding */
+  font-size: 0.9rem; /* Slightly increase font size for readability */
   background-color: #6c757d; /* Grey color */
   color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  white-space: nowrap; /* Prevent text wrapping */
+  display: inline-block; /* Ensure buttons adjust to text size */
 }
 
 .language-button.active {
@@ -104,5 +108,61 @@
 }
 
 .language-button:hover {
+  background-color: #5a6268; /* Darker grey on hover */
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.navigation-buttons button {
+  padding: 5px; /* Adjust padding for arrows */
+  font-size: 1.2rem; /* Increase font size for better visibility */
+  background-color: #6c757d; /* Grey color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 40px; /* Adjust width for arrow buttons */
+  height: 40px; /* Adjust height for arrow buttons */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation-buttons button:hover {
+  background-color: #5a6268; /* Darker grey on hover */
+}
+
+.title-navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Use space-between for layout */
+  margin-bottom: 20px;
+}
+
+.title-navigation button {
+  padding: 3px; /* Reduce padding */
+  font-size: 1rem; /* Decrease font size */
+  width: 30px; /* Reduce width */
+  height: 30px; /* Reduce height */
+  background-color: #6c757d; /* Grey color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-navigation button:hover {
   background-color: #5a6268; /* Darker grey on hover */
 }
